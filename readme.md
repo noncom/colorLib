@@ -1,3 +1,7 @@
+## About this fork !!!
+
+This fork is made solely for mavenizing the project so that I can add it as a maven dependency for Hemesh maven hold.
+
 # colorLib 2.0, A color library for Processing.
 
 colorLib is a library for Processing that allows you to work with colors. The [documentation](https://github.com/vormplus/colorLib/wiki) can be found on the wiki of this repository.
